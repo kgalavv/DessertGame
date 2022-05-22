@@ -1,2 +1,3 @@
 # DessertGame
-A game implemented using JavaFX
+
+In the pursuit of honing my JavaFX skills, I desgined a simple game. 
